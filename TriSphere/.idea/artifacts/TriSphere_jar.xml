@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="TriSphere:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TriSphere_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TriSphere.jar">
+        <element id="module-output" name="TriSphere" />
+      </element>
+    </root>
+  </artifact>
+</component>
